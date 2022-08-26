@@ -475,7 +475,7 @@
 | [Perun Network](https://perun.network/) | Perun App Channels | [GitHub](https://github.com/perun-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [ChainSafe Systems](https://chainsafe.io/) | Privacy enhancement for Polkadot-js extension | [GitHub](https://github.com/ChainSafe) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [BQP](https://qbitcoin.tech/) | Quantum Lock for QBITCOIN | [GitHub](https://github.com/bqpquantum/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Simply VC](https://simply-vc.com.mt/) | PANIC Monitoring and Alerting For Blockchains | [GitHub](https://github.com/SimplyVC/panic) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Simply VC](https://simply-vc.com.mt/) | PANIC Monitoring and Alerting For Blockchains | [GitHub](https://github.com/SimplyVC/panic) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Artree LLC](https://artree.co.jp/) | Zero Network | [GitHub](https://github.com/zero-network) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [sigma prime](https://sigmaprime.io/) | Differential Fuzzer | [GitHub](https://github.com/sigp) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [t3rn](https://www.t3rn.io/) | XBI - xcm-based high-level standard and interface (ABI) for smart contracts | [GitHub](https://github.com/t3rn/t3rn) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -484,7 +484,7 @@
 | [Kami Ekbatanifard](https://github.com/Nick-1979/) | Polkadot js plus / Nomination pools | [GitHub](https://github.com/Nick-1979/polkadot-Js-Plus-extension/wiki) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Afloat Inc](https://stayafloat.io/#/) | Tax Infrastructure Polkadot Integration | N/A | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [gmajor](https://github.com/gmajor-encrypt) | SCALE Codec Comparator | [GitHub](https://github.com/gmajor-encrypt) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Rusty Crewmates](http://rustycrewmates.com/) | Substrate Tutorials | [GitHub](https://github.com/rusty-crewmates/substrate-tutorials) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Rusty Crewmates](http://rustycrewmates.com/) | Substrate Tutorials | [GitHub](https://github.com/rusty-crewmates/substrate-tutorials) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Sequester](https://github.com/SequesterChain) | A Common-Good Carbon Sink on Polkadot | [GitHub](https://github.com/SequesterChain/pallets) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Keysafe Network](https://github.com/keysafe-protocol) | A decentralized protocol for private key custody and crypto asset management | [GitHub](https://github.com/keysafe-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Fennel Labs](https://fennellabs.com/) | Whiteflag on Fennel Protocol | [GitHub](https://github.com/fennelLabs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -496,13 +496,13 @@
 | [FS](https://fair-squares.nl/) | Fair Squares | [GitHub](https://github.com/Fair-squares) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Ideal Labs](https://www.idealabs.network/) | Iris: Phase 2 | [GitHub](https://github.com/ideal-lab5) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [NeoPower](https://www.neopower.digital/) | Roloi: Stream money from one wallet to another | [GitHub](https://github.com/RoloiMoney) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Tribal Protocol Labs](https://www.tribal.fyi/) | Tribal Protocol Smart Contract Development | [GitHub](https://github.com/tribal-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Tribal Protocol Labs](https://www.tribal.fyi/) | Tribal Protocol Smart Contract Development | [GitHub](https://github.com/tribal-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Yahuang Wu](https://github.com/wuyahuang) | Dual-Key Stealth Address Protocol | [GitHub](https://github.com/wuyahuang) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [UNIVERSALDOT FOUNDATION](https://universaldot.foundation) | Universaldot.me Phase 2 | [GitHub](https://github.com/UniversalDot) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Societal Labs Ltd.](https://www.sctl.xyz/) | Societal - MVP - Phase 1 | [GitHub](https://github.com/sctllabs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Faceless Protocol](https://github.com/HeisenbergLin22) | Faceless Protocol | [GitHub](https://github.com/HeisenbergLin22) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [SuperColony](https://github.com/Supercolony-net) | Typechain | [GitHub](https://github.com/Supercolony-net/typechain-polkadot) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Codelight](https://massbit.io/) | Massbit Route | [GitHub](https://github.com/massbitprotocol/massbitroute) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Codelight](https://massbit.io/) | Massbit Route | [GitHub](https://github.com/massbitprotocol/massbitroute) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Hypha Hashed Partners](https://hypha.earth/) | Social Recovery Wallet | [GitHub](https://github.com/hypha-dao) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [MangoBOX labs](http://mangobox.xyz/) | MangoBOX Protocol | [GitHub](https://github.com/Mangoboxlabs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
@@ -535,5 +535,6 @@
 | [Uke](https://github.com/Uke-Messaging) | Uke Messaging - PoC - Phase 1 | [GitHub](https://github.com/Uke-Messaging) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Redstone Network](https://github.com/difttt) | Redstone Network | [GitHub](https://github.com/difttt) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [JURIMETRIC TECNOLOGIA LTDA](https://www.jurimetric.com.br/) | Polkadart | [GitHub](https://github.com/rankanizer/polkadart) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Skye Kiwi](https://skye.kiwi/) | Choko Wallet | [GitHub](https://github.com/skyekiwi) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
 
